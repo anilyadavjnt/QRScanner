@@ -160,19 +160,13 @@ While developing this project, I strengthened my understanding of:
 ## 👨‍💻 Author
 
 **Anil Kumar Yadav**
-
 iOS Developer | Swift | UIKit
 
-* GitHub: `https://github.com/anilyadavjnt`
-* LinkedIn: `https://www.linkedin.com/in/anilyadavjnt`
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-## ⭐ Support
+Anil Yadav ( iOS Developer )
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-### 📄 License
-
-This project is available for educational and portfolio purposes.
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
 
