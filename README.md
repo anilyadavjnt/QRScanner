@@ -175,3 +175,4 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 ### 📄 License
 
 This project is available for educational and portfolio purposes.
+
