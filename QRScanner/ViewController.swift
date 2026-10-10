@@ -187,4 +187,3 @@ class QRCodeScannerController: UIViewController, AVCaptureMetadataOutputObjectsD
 
 
 
-
